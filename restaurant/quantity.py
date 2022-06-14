@@ -1,0 +1,2 @@
+class quantity:
+	pass
