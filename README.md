@@ -1,6 +1,9 @@
 # sumit_projects
 
 ## Assignment_1_Restaurant
+- [Restaurant](https://github.com/sp18-interns/sumit_projects/tree/main/restaurant)
+
+- Dish maker is code to generate dish
 ```
 Created a Dish maker.
 Here are the design specifications:
